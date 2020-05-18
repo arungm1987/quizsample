@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.question {
+  display: flex;
+  width: 40%;
+  height: 40vh;
+  justify-content: center;
+  flex-direction: column;
+}
+.buttons {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 2px;
+  padding: 2px;
+}
+button {
+  margin: 4px;
+}
+.numb {
+  padding: 4px;
+}
